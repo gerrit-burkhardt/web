@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/logo.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "gerritburkhardt"
+  twitter = "GerritBurkhardt"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
