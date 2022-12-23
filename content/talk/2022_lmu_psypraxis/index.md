@@ -1,7 +1,7 @@
 ---
 title: rTMS zur Behandlung der Depression
 author: Gerrit Burkhardt
-summary: Keynote
+summary: Talk on rTMS as a treatment for depression
 location: Munich, Germany
 
 draft: false
